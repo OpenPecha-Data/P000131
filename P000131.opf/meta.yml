@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །བྱ་བཏང་ཚོགས་དྲུག་རང་གྲོལ་གྱིས་ཕྱོགས་མེད་རི་ཁྲོད་འགྲིམས་པའི་ཚེ་རང་གཞན་ཆོས་ལ་བསྐུལ་ཕྱིར་གླུ་དབྱངས་དགའ་སྟོན་འགྱེད་པ་རྣམས་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
+  sku: SHE-SHAP-01
+  layers:
+  - book_title
+  - author
+  - yigchung
+web_metadata:
+  title:
+    en: ''
+    bo: བྱ་བཏང་ཚོགས་དྲུག་རང་གྲོལ་གྱིས་ཕྱོགས་མེད་རི་ཁྲོད་འགྲིམས་པའི་ཚེ་རང་གཞན་ཆོས་ལ་བསྐུལ་ཕྱིར་གླུ་དབྱངས་དགའ་སྟོན་འགྱེད་པ་རྣམས་བཞུགས་སོ།
+  collection:
+    en: ''
+    bo: ཞབས་དཀར་གསུང་འབུམ།–  དེབ། ༡
+  author:
+    en: Authors:Shabkar Tsokdruk Rangdrol
+    bo: ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SHAP-01
+  category:
+    en: Spiritual Songs
+    bo: མགུར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SHAP-01.epub
+  description:
+    en: ''
+    bo: ''
