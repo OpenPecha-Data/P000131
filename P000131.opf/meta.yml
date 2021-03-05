@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000131
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བྱ་བཏང་ཚོགས་དྲུག་རང་གྲོལ་གྱིས་ཕྱོགས་མེད་རི་ཁྲོད་འགྲིམས་པའི་ཚེ་རང་གཞན་ཆོས་ལ་བསྐུལ་ཕྱིར་གླུ་དབྱངས་དགའ་སྟོན་འགྱེད་པ་རྣམས་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-01
   layers:
   - book_title
   - author
   - yigchung
+  id: SHE-SHAP-01
 web_metadata:
   title:
     en: ''
